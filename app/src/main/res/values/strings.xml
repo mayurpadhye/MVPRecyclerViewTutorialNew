@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVPRecyclerViewTutorial</string>
+    <string name="discount">Discount</string>
 </resources>
