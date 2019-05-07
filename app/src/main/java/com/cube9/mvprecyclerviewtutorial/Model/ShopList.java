@@ -132,7 +132,7 @@ List<ShopList> shopLists=new ArrayList<>();
                 } catch (JSONException | NullPointerException e) {
 
                     e.printStackTrace();
-                    Log.i("fdfdfdfdfdf", "" + e.getMessage());
+                    Log.i("fdfdfdfwerwerdfdf", "" + e.getMessage());
 
                 }
             }
